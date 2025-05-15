@@ -4,3 +4,5 @@ pyttsx3
 SpeechRecognition
 gtts
 spacy
+sqlalchemy<2.0
+
